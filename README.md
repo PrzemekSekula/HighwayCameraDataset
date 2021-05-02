@@ -24,7 +24,6 @@ The dataset is labeled by:
 
 # TODO
 - Continue building dataset. It is still under construction.
-- Add debuging to `Create_tfrecord.ipynb`. I wnat no know if the frames in .tfrecord files are being generated correctly
 - Aggregate the common functions in a library. Dealing with data.csv and the entire content of ./data should be unified across all the notebooks.
 - Clean and refactor the code, make all the pathes relative, add function descriptions etc.
 - Add a brief description of the labelling process. It should include at least the name of the app, the outcomes and the postprocessing (from matlab file to .xlsx)
